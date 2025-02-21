@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @umakrishna-2002
+- 👋 Hi, I’m Uma Krishna @umakrishna-2002
 - 👀 I’m interested in Cloud Computing (AWS), DevOps.
 - 🌱 I’m currently learning AWS and DevOps
 - 💞️ I’m looking to collaborate with everyone. 
