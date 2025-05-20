@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umakrishna-2002" alt="umakrishna-2002" /></a> </p>
 
+- Deep Learning Approach Integrating Soil and Environmental Factors with Feature Scaling Technique [https://github.com/umakrishna-2002/A-Deep-Learning-Approach-Integrating-Soil-and-Environmental-Factors-with-Feature-Scaling-Technique.git](https://github.com/umakrishna-2002/A-Deep-Learning-Approach-Integrating-Soil-and-Environmental-Factors-with-Feature-Scaling-Technique.git)
+
+- Scalable Infrastructure Deployment Using AWS EC2 RDS [https://github.com/umakrishna-2002/Scalable-Infrastructure-Deployment-Using-AWS-EC2-RDS.git](https://github.com/umakrishna-2002/Scalable-Infrastructure-Deployment-Using-AWS-EC2-RDS.git)
+
+- End-to-End-CI-CD-Deployment-with-Kubernetes-and-Jenkins [https://github.com/umakrishna-2002/End-to-End-CI-CD-Deployment-with-Kubernetes-and-Jenkins.git](https://github.com/umakrishna-2002/End-to-End-CI-CD-Deployment-with-Kubernetes-and-Jenkins.git)
+
 - 📫 How to reach me **umakrishnamarineni@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
